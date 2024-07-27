@@ -1,4 +1,4 @@
-package CrackYourInternship.Day1;
+package Day1;
 
 /**
  * Q3
